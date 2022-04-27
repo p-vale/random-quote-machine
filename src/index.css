@@ -29,7 +29,7 @@
     width: 600px;
     padding: 20px;
     background-color: white;
-    border-radius: 15px;
+    border-radius: 5px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -110,7 +110,7 @@ img {
 
 #new-quote {
     border: none;
-    border-radius: 8px;
+    border-radius: 3px;
     padding: 10px;
     margin-left: 10px;
     background: #f2e9e4;
